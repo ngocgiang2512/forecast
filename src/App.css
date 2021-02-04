@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  font-family: arial;
+}
+
+p {
+  margin: 0 0 8px;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}

@@ -1,5 +1,14 @@
 # Forecast
 
+## Project Description
+A widget which get the forecast data in Ha Noi city for 8 days from now.
+
+Stack used:
+- Create React App
+- ReactJS
+- styled-components
+
+
 ## To run the project
 - Step 1: Add the OpenWeatherMap API
 
